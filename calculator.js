@@ -26,55 +26,55 @@ window.onload = function(event){
 
 	//number keys
 	one.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 1	
+		document.getElementById("result_display_value").innerHTML = 1	
 		result.push(1)
 		console.log(result)
 	}
 
 	two.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 2 
+		document.getElementById("result_display_value").innerHTML = 2 
 		result.push(2)
 		console.log(result)
 	}
 
 	three.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 3 
+		document.getElementById("result_display_value").innerHTML = 3 
 		result.push(3)
 		console.log(result)
 	}
 
 	four.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 4 
+		document.getElementById("result_display_value").innerHTML = 4 
 		result.push(4)
 		console.log(result)
 	}
 
 	five.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 5 
+		document.getElementById("result_display_value").innerHTML = 5 
 		result.push(5)
 		console.log(result)
 	}
 
 	six.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 6 
+		document.getElementById("result_display_value").innerHTML = 6 
 		result.push(6)
 		console.log(result)
 	}
 
 	seven.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 7 
+		document.getElementById("result_display_value").innerHTML = 7 
 		result.push(7)
 		console.log(result)
 	}
 
 	eight.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 8 
+		document.getElementById("result_display_value").innerHTML = 8 
 		result.push(8)
 		console.log(result)
 	}
 
 	nine.onclick = function(event){
-		document.getElementById("result_display_value").innerHTML += 6 
+		document.getElementById("result_display_value").innerHTML = 6 
 		result.push(6)
 		console.log(result)
 	}
